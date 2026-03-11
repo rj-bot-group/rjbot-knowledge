@@ -1,7 +1,7 @@
 # Services & Downloads-RJ-Bot Industrial Group
 
 **URL:** https://www.rj-bot.com/service/faq.html
-**Crawled At:** 2026-03-11T11:11:50.842425
+**Crawled At:** 2026-03-11T15:13:01.459662
 **Category:** FAQ
 
 ---

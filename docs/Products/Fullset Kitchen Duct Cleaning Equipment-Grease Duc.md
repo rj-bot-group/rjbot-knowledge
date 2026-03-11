@@ -1,7 +1,7 @@
 # Fullset Kitchen Duct Cleaning Equipment-Grease Duct Cleaning-RJ-Bot Industrial Group
 
 **URL:** https://www.rj-bot.com/product-details/kitchen-clean-fullset.html
-**Crawled At:** 2026-03-11T11:12:00.342673
+**Crawled At:** 2026-03-11T15:13:39.983208
 **Category:** Products
 
 ---

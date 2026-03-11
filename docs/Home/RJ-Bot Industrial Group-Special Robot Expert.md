@@ -1,7 +1,7 @@
 # RJ-Bot Industrial Group-Special Robot Expert
 
 **URL:** https://www.rj-bot.com/
-**Crawled At:** 2026-03-11T11:11:21.406981
+**Crawled At:** 2026-03-11T15:12:53.404851
 **Category:** Home
 
 ---
@@ -358,7 +358,7 @@ rj-bot is an international high-tech enterprise specializing in the research and
                 
                     
                         
-                            Video Player is loading.Play VideoPlaySkip BackwardSkip ForwardMuteCurrent Time 0:00/Duration 1:47Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+                            Video Player is loading.Play VideoPlaySkip BackwardSkip ForwardMuteCurrent Time 0:00/Duration 1:47Loaded: 12.69%0:00Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -1:47 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedSubtitlessubtitles settings, opens subtitles settings dialogsubtitles off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
                             
                             
                         
