@@ -1,7 +1,7 @@
-# RJ-Bot Industrial Group-Special Robot Expert
+# Q28 Central Air Duct Inspection Robot-Air Duct Cleaning-RJ-Bot Industrial Group
 
-**URL:** https://www.rj-bot.com/product-details/p24-chemical-spray-machine.html
-**Crawled At:** 2026-03-11T15:57:21.388703
+**URL:** https://www.rj-bot.com/product-details/q28-Inspection-robot.html
+**Crawled At:** 2026-03-11T15:56:56.417384
 **Category:** Products
 
 ---
@@ -202,11 +202,11 @@
 				
 					
                             
-                                                            
+                                Q28 Central Air Duct Inspection Robot                            
 						
 							Home
 							Product
-							
+							Air Duct Cleaning
 						
 					
 				
@@ -228,14 +228,40 @@
 									
 										
 																																
+														1														
+													
+														2														
+													
+														0														
+													
+														1														
+													
+														2														
+													
+														0														
+													
+														1														
+													
 										
-																																
+																						
+														
+															0															
+														
+													
+														
+															1															
+														
+													
+														
+															2															
+														
+																							
 									
 								
 								
 									
 										
-																					
+											Q28 Central Air Duct Inspection Robot										
 										
 										
 											Purchase Intent
@@ -296,7 +322,31 @@
 					
 							Related Recommendations
 							
-															
+								
+										
+											
+												
+											
+											
+												
+													
+														HVAC Air Vent and Duct Cleaning Solutions													
+												
+											
+										
+									
+										
+											
+												
+											
+											
+												
+													
+														Q37 Air Duct Cleaning Robot 													
+												
+											
+										
+																
 						
 							Product Search
 							
@@ -710,7 +760,7 @@
 
 	// 路由参数
 	const cate = '';
-	const id = 'p24-chemical-spray-machine';
+	const id = 'q28-Inspection-robot';
 
 	$(document).ready(function() {
 		var w = $(window).width();

@@ -1,7 +1,7 @@
-# RJ-Bot Industrial Group-Special Robot Expert
+# P32 Portable diesel heating machine-Accessories-RJ-Bot Industrial Group
 
-**URL:** https://www.rj-bot.com/product-details/p24-chemical-spray-machine.html
-**Crawled At:** 2026-03-11T15:57:21.388703
+**URL:** https://www.rj-bot.com/product-details/p32-diesel-heater.html
+**Crawled At:** 2026-03-11T15:57:18.253323
 **Category:** Products
 
 ---
@@ -202,11 +202,11 @@
 				
 					
                             
-                                                            
+                                P32 Portable diesel heating machine                            
 						
 							Home
 							Product
-							
+							Accessories
 						
 					
 				
@@ -228,15 +228,43 @@
 									
 										
 																																
+														1														
+													
+														2														
+													
+														0														
+													
+														1														
+													
+														2														
+													
+														0														
+													
+														1														
+													
 										
-																																
+																						
+														
+															0															
+														
+													
+														
+															1															
+														
+													
+														
+															2															
+														
+																							
 									
 								
 								
 									
 										
-																					
-										
+											P32 Portable diesel heating machine										
+										Can produce 90 ° hot water in 20 seconds
+Instant hot water without waiting
+The control panel is easy to operate
 										
 											Purchase Intent
 																					
@@ -269,7 +297,7 @@
 
 										
 											
-												
+												Product discriptionThis product is a diesel-powered high-temperature liquid heating equipment that leverages a diesel combustion heating system to rapidly raise water temperature to an adjustable range of 0–90°C. It precisely delivers heated fluid through multi-stage pressure nozzles, solving the core issues of traditional electric heaters—including slow heating, low efficiency, and uncontrolled temperatures.Positioned as a portable, efficient, and flexible thermal energy solution, it targets scenarios requiring high-temperature cleaning or degreasing—where traditional electric equipment falls short on mobility, speed, or temperature precision.ApplicationsScenario TypeSpecific Application ObjectsCore Pain PointsValue Our Machine DeliversCatering/Kitchen CleaningExhaust ducts, range hoodsRequires high temperatures (80-90°C) to soften old grease buildup—but electric heaters rely on power outlets (hard to move), and manual scraping is time-consuming/laborious.Diesel-powered: heats to 90°C in 20 seconds. Paired with G36 or G31robot, it delivers high-temperature water jets + precise multi-nozzle spraying—boosting efficiency by 5x.Core functionsFunctional ParameterSpecification/ConfigurationTechnical Analysis & AdvantagesHeating MethodDiesel Combustion HeatingDiesel has a high calorific value (≈46MJ/kg) and combustion efficiency (≥90%), saving 30% energy vs. electric heating. Indirect heat exchange prevents liquid contamination, outputting clean high-temperature fluid. It can also pair with the P40 high-pressure machine to rapidly heat water up to 200 bar.Temperature ControlAdjustable 0–90℃Precise temperature control meets diverse needs: low temps (30–50℃) for sensitive equipment (e.g., plastic pipes); high temps (70–90℃) for stubborn grease. Avoids energy waste from overheating.Heating SpeedReaches operating temp in 20 sec (cold start); peaks at 90℃ in 30 secRapid heating cuts wait time—ideal for short tasks (e.g., 1-hour post-lunch restaurant cleaning)—and boosts daily work capacity.Power CorePure Copper MotorPure copper coils offer high conductivity (≥97%) and heat resistance (no deformation at 180℃). Lifespan is twice that of ordinary aluminum motors (≥5000 hours), reducing maintenance costs.Injection SystemMulti-Stage Pressure Nozzles (0°, 15°, 25°, 40°)Four nozzle angles cover all tasks: pipe elbows, floor cleaning, wall grease removal, and crevice spraying. No equipment swaps needed—cuts procurement costs by 50%.Why Choose Our Diesel High-Temperature Heating Machine?Unlike electric heaters tied to power outlets, our machine runs on diesel—delivering rapid performance: it reaches operating temperature in 20 seconds (cold start) and hits a 90℃ peak in 30 seconds. This slashes single-task time by 40% compared to traditional electric heaters (which require 10-15 minutes of preheating), making it ideal for time-sensitive jobs like post-lunch restaurant cleanups or factory shift changes.Whether you’re battling tough grease in kitchen exhaust systems, dissolving stubborn scale in industrial workshops, or deploying for emergency cleanups, it excels as a cost-effective thermal workhorse—helping users cut costs and boost efficiency.Note: It pairs seamlessly with our P40 high-pressure machine. For grease removal in oily environments, high-temperature, high-pressure clean water is the ultimate solution.
 											
 											
 												
@@ -296,7 +324,31 @@
 					
 							Related Recommendations
 							
-															
+								
+										
+											
+												
+											
+											
+												
+													
+														P24 chemicals spraying machine													
+												
+											
+										
+									
+										
+											
+												
+											
+											
+												
+													
+														P40 High-Pressure and Suction Machine													
+												
+											
+										
+																
 						
 							Product Search
 							
@@ -710,7 +762,7 @@
 
 	// 路由参数
 	const cate = '';
-	const id = 'p24-chemical-spray-machine';
+	const id = 'p32-diesel-heater';
 
 	$(document).ready(function() {
 		var w = $(window).width();
